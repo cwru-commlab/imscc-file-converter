@@ -66,6 +66,9 @@ Example:
 ```
 **Note** The default value for this variable is folder.
 
+## NOTE: 
+I have removed the line to delete the .tmp file. After running the command, the folder will be empty - but check the .tmp folder in THIS directory for the actual output. It's still hard to read but at least some of it is there...
+
 ## Motivation
 
 The imscc file extension is mainly related to Canvas by Instructure and used for one of its default file types. An imscc file contains exported course, that contains all the content and arrangement. Used for education purposes. 
